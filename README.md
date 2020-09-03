@@ -207,7 +207,8 @@ total 16
 
  **And finally you have your Elasticsearch and Kibana Up and running**
  
- ![alt text](elasticlogin.jpg)
+ ![Elastic login Page](https://github.com/proxxious/ElasticStack-and-Ansible/blob/master/elasticlogin.JPG)
  
+
  
  
