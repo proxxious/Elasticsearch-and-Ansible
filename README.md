@@ -1,7 +1,11 @@
 # Elasticsearch-and-Ansible
-Automating ElasticStack deployment with Ansible
+Automating Elasticsearch deployment with Ansible
      
      This is the guide is a two(2) ElasticStack node with one(1) control node for Ansible
+     
+Prerequisite
+     
+     Install java
 
 **ANSIBLE INSTALLATION**
 
