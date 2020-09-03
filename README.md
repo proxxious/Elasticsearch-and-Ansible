@@ -1,4 +1,4 @@
-# ElasticStack-and-Ansible
+# Elasticsearch-and-Ansible
 Automating ElasticStack deployment with Ansible
      
      This is the guide is a two(2) ElasticStack node with one(1) control node for Ansible
@@ -203,7 +203,7 @@ total 16
 
  **And finally you have your Elasticsearch and Kibana Up and running**
  
- ![alt text](image.jpg)
+ ![alt text](elasticlogin.jpg)
  
  
  
