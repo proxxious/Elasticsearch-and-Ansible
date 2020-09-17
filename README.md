@@ -13,6 +13,11 @@ Follow the below guide to setup Ansible
 https://computingforgeeks.com/setup-elasticsearch-cluster-on-centos-ubuntu-with-ansible/
 
 **NOTE**
+
+ Generate SSH key with SSH-keygen
+ 
+  ssh-keygen
+     
  Copy the SSH ID from your control node to the remote host
  
  `ssh-copy-id username@remote_host`
