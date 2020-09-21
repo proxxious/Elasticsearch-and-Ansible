@@ -84,6 +84,8 @@ hosts: elk1
     es_ssl_keystore: "/root/http.p12"
     es_ssl_truststore: "/root/http.p12"
     es_ssl_keystore_password: "qwerty"
+    es_ssl_truststore_password: "qwerty"
+    es_ssl_verification_mode: certificate
 ```
 Create your hosts file
 
